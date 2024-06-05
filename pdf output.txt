@@ -1,0 +1,23 @@
+Software Testing
+•Executing a program with the intent of finding an error.
+
+•To check if the system meets the requirements and be
+executed successfully in the intended environment.
+
+•To check if the system is “ Fit for purpose”.
+
+•To check if the system does what it is expected to do.
+
+
+translated to telugu : 
+
+సాఫ్ట్‌వేర్ పరీక్ష
+
+ లోపాన్ని కనుగొనే ఉద్దేశ్యంతో ప్రోగ్రామ్‌ను అమలు చేయడం.
+
+సిస్టమ్ అవసరాలకు అనుగుణంగా ఉందో లేదో తనిఖీ చేయడానికి
+ఉద్దేశించిన వాతావరణంలో విజయవంతంగా అమలు చేయబడింది.
+
+ సిస్టమ్ “ప్రయోజనం కోసం సరిపోతుంది” అని తనిఖీ చేయడానికి.
+
+ సిస్టమ్ ఏమి చేస్తుందో లేదో తనిఖీ చేయడానికి.
